@@ -1,0 +1,85 @@
+---
+title             : |
+  Empathy Conditions ERP Responses to Interrogatives
+shorttitle        : "ERP PROSODY CORRELATES"
+author            : 
+  - name: Alexander Rogers
+    corresponding: 
+    affiliations: Rutgers University
+    email: 
+  - name: Robert Esposito
+    affiliations: Rutgers University
+    email: 
+
+bibliography      : "./lit/et_emp_prof.bib"
+csl               : "./lit/apa_7th_edition.csl"
+indent: true
+
+format:
+  docx:
+    reference-doc: "./ref_doc/apa_style.docx"
+    number-sections: false
+    highlight-style: github
+    code-line-numbers: true
+    fig-align: center
+    tbl-colwidths: true
+    mermaid:
+      theme: neutral
+    mermaid-format: png
+
+editor_options: 
+  markdown: 
+    wrap: sentence
+metadata: 
+  subject: linguistics
+  description: "L2 Acquisition"
+  category: article
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+# Set document defaults
+knitr::opts_chunk$set(
+  cache.extra = knitr::rand_seed, 
+  fig.retina = 2, 
+  echo = F, 
+  message = F, 
+  warning = F,
+  fig.asp = 0.5625,
+  out.width = "100%",
+  dpi = 300, 
+  fig.path = 'figs/', 
+  dev = c("png", "pdf")
+  )
+
+library("here")
+library("fs")
+library("dplyr")
+library("tidyr")
+library("stringr")
+```
+
+{{< pagebreak >}}
+
+# Author note {.unnumbered}
+
+Correspondence concerning this article should be addressed to Robert Esposito, Rutgers University - Department of Spanish and Portuguese, 15 Seminary Place, New Brunswick, NJ 08904, USA . E-mail: rme70@rutgers.edu.
+
+{{< pagebreak >}}
+
+# Abstract {.unnumbered}
+
+This is where the abstract will go.
+
+*Keywords:* Eye Tracking
+
+*Word count:* WORD_COUNT
+
+{{< pagebreak >}}
+
+
+# `r rmarkdown::metadata$title`
+
+# Introduction
