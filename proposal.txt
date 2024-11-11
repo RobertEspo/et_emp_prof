@@ -1,0 +1,68 @@
+Eye-tracking eye & mouth fixations in L2 conditioned by proficiency and empathy.
+
+#####
+
+# Methodologies
+
+Speech rate as proxy for difficulty.
+
+correct vs incorrect --> does eye gaze differ between correct and incorrect based on empathy/proficiency?
+	ciga[R]o/ciga[r]o
+	casa[] vs casa[s] vs casa[h]
+	pinta[d]o vs pinta[]o
+	pe[d]o vs pe[r]o
+	[s]anahoria vs [z]anahoria vs [TH]anaoria
+
+XA methodology. "Is X the same as A?"
+
+	
+Ask Gabi/Joseph for advice on segmental features to look at
+
+# Procedure
+
+Listen to sentence stimuli with video. Show "match" and "mismatch". Listen to target e.g., cigarro/cigaro. Choose match or mismatch.
+
+# Social differences
+
+Language use/experience
+Proficiency (LexTALE, DELE)
+Empathy
+Working memory
+
+# Research questions
+
+Does mouth gaze fixation improve comprehension?
+Does proficiency modulate mouth gaze fixation?
+Does empathy modulate mouth gaze fixation?
+Is there an interaction between empathy/proficiency and mouth-gaze fixation?
+Does empathy modulate perception of segmental features?
+
+# How many participants?
+
+Check out power analysis.
+
+# What proficiencies?
+
+Casillas et al. (2023) found that for deciding if a sentence is a question or statement, empathy only was influential for lower proficiency (what was "lower" in that study?). Regardless, all proficiencies would be interesting for two analyses: one based solely on proficiency, another looking at the proficiency/empathy interaction.
+
+# Hypotheses
+
+## Proficiency:
+	low prof = mouth
+	high prof = eyes
+	I expect it to be a curve -- eyes at very low prof, mouth at mid, eyes at high.
+## Empathy:
+	low emp = more mouth
+	high emp = more eyes
+	So far, studies show that high-empathy folk have an advantage in language processing. E.g., Orrico shows that they (L1) have more granular interpretations of intonation; D'Imperio shows that they (L1) make greater use of intonational cues to disambiguate homophones when possible; Casillas shows that they (L2) distinguish between statements/questions better in Spanish.
+	Also need to look at other studies focused ONLY on empathy and face gaze fixation.
+
+# Literature Review
+
+## What do we need?
+	Face gaze fixation modulated by EQ during speech in L1 and L2 (Robert)
+	Face gaze fixation modulated by proficiency in L2 (during speech) (Alex)
+	Pragmatic skills (e.g., empathy) in L1 (D'Imperio; Orrico) & L2 (Casillas) (Robert)
+	L2 perception of segmental features (/d/ deletion, /s/ aspiration/deletion) (Robert)
+	Speech rate and proficiency (Alex)
+	Working memory and phonological loop (Alex)
