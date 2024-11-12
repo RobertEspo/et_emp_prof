@@ -7,14 +7,14 @@ Eye-tracking eye & mouth fixations in L2 conditioned by proficiency and empathy.
 Speech rate as proxy for difficulty.
 
 correct vs incorrect --> does eye gaze differ between correct and incorrect based on empathy/proficiency?
-	ciga[R]o/ciga[r]o
-	casa[] vs casa[s] vs casa[h]
-	pinta[d]o vs pinta[]o
-	pe[d]o vs pe[r]o
-	[s]anahoria vs [z]anahoria vs [TH]anaoria
+	ciga[R]o/ciga[r]o 				(trill vs tap)
+	casa[] vs casa[s] vs casa[h]			(s aspiration/deletion)
+	pinta[d]o vs pinta[]o				(d deletion)
+	pe[d]o vs pe[r]o				(d vs tap)
+	[s]anahoria vs [z]anahoria vs [TH]anaoria	(s vs z vs dental)
+	rato[n] vs rato[N] vs rato[m]			(alveolar vs velar vs labial) 
 
 XA methodology. "Is X the same as A?"
-
 	
 Ask Gabi/Joseph for advice on segmental features to look at
 
@@ -61,8 +61,8 @@ Casillas et al. (2023) found that for deciding if a sentence is a question or st
 
 ## What do we need?
 	Face gaze fixation modulated by EQ during speech in L1 and L2 (Robert)
-	Face gaze fixation modulated by proficiency in L2 (during speech) (Alex)
 	Pragmatic skills (e.g., empathy) in L1 (D'Imperio; Orrico) & L2 (Casillas) (Robert)
 	L2 perception of segmental features (/d/ deletion, /s/ aspiration/deletion) (Robert)
 	Speech rate and proficiency (Alex)
 	Working memory and phonological loop (Alex)
+	Face gaze fixation modulated by proficiency in L2 (during speech) (Alex)
