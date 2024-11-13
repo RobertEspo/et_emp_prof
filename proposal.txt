@@ -6,24 +6,37 @@ Eye-tracking eye & mouth fixations in L2 conditioned by proficiency and empathy.
 
 Speech rate as proxy for difficulty.
 
-correct vs incorrect --> does eye gaze differ between correct and incorrect based on empathy/proficiency?
+Phoneme distinctions
 	ciga[R]o/ciga[r]o 				(trill vs tap)
 	casa[] vs casa[s] vs casa[h]			(s aspiration/deletion)
 	pinta[d]o vs pinta[]o				(d deletion)
 	pe[d]o vs pe[r]o				(d vs tap)
 	[s]anahoria vs [z]anahoria vs [TH]anaoria	(s vs z vs dental)
-	rato[n] vs rato[N] vs rato[m]			(alveolar vs velar vs labial) 
+	rato[n] vs rato[N] vs rato[m]			(alveolar vs velar vs labial)
+	raña vs rana					(palatal vs alveolar)
 
-XA methodology. "Is X the same as A?"
+Allophone distinctions
+	la[B]ios vs la[b]ios				(plosive vs fricative/approximant)
+	de[D]os vs de[d]os				(plosive vs fricative/approximant)
+	va[G]o vs va[g]o				(plosive vs fricative/approximant)
+	Nasal allophones
 	
 Ask Gabi/Joseph for advice on segmental features to look at
 
-# Procedure
+OPTION 1:
+XA methodology. "Is X the same as A?"
 
-Listen to sentence stimuli with video. Show "match" and "mismatch". Listen to target e.g., cigarro/cigaro. Choose match or mismatch.
+Listen to sentence stimulus with video of face producing it e.g., "Voy a comprarme un (ciga[R]o OR ciga[r]o) más tarde."
+Show text of "match" and "mismatch" target and distractor e.g., "cigarro" and "cigaro". 
+Listen to stimulus e.g., ciga[R]o OR ciga[r]o. 
+Click 1 for match, 0 for mismatch.
 
-# Social differences
+Issue 1: No way to get at allophones (includes /d/ deletion and /s/ aspiration).
+Issue 2: Doesn't really measure comprehension of audio stimuli, but lexical knowledge (folks might still be more inclined to choose the word with standard orthography). Might be better to use pseudowords that are phonotactically possible in Spanish e.g., "Compré un [sarrano/sarano] en la tienda." This would require a much more limited set of stimuli that controls for both vowels and consonants.
+Issue 3: Does this really get at comprehension of the target sentence? An argument could be that when learners are exposed to new words, they need to parse them accurately, so eye gaze on mouth could act as cue to help parsing.
+Issue 4: They will not know when the pseudoword is introduced, so the saccade might not be fast enough to give them mouth cues. This can be improved if we have it more like a conversation: "A: Me compré un [sarrano/sarano] en la tienda. B: ¿Qué compraste? A: un [sarrano/sarano]."
 
+# Individual differences
 Language use/experience
 Proficiency (LexTALE, DELE)
 Empathy
@@ -36,6 +49,10 @@ Does proficiency modulate mouth gaze fixation?
 Does empathy modulate mouth gaze fixation?
 Is there an interaction between empathy/proficiency and mouth-gaze fixation?
 Does empathy modulate perception of segmental features?
+
+Is eye gaze on mouth conditioned by empathy/proficiency interaction?
+Is accuracy conditioned by eye gaze on mouth?
+Is accuracy conditioned by interaction between eye gaze on mouth and proficiency?
 
 # How many participants?
 
