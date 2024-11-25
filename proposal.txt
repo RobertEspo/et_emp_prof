@@ -36,6 +36,15 @@ Issue 2: Doesn't really measure comprehension of audio stimuli, but lexical know
 Issue 3: Does this really get at comprehension of the target sentence? An argument could be that when learners are exposed to new words, they need to parse them accurately, so eye gaze on mouth could act as cue to help parsing.
 Issue 4: They will not know when the pseudoword is introduced, so the saccade might not be fast enough to give them mouth cues. This can be improved if we have it more like a conversation: "A: Me compré un [sarrano/sarano] en la tienda. B: ¿Qué compraste? A: un [sarrano/sarano]."
 
+OPTION 2:
+2AFC: "Which would did the speak say?"
+Two conditions: 
+Condition 1: Convo between two speakers (audio-visual) on zoom, so you can clearly see both faces. Speaker A: "Tengo que comprarme un TARGET". B: "¿Un qué?" A: "TARGET."
+Condition 2: same convo, no visual.
+
+The TARGET is a phonotactically legal Spanish pseudoword.
+Participant then displayed a minimal pair between the pseudoword and its pair. e.g., sarrano and sarreno. Participant must select the target accurately.
+
 # Individual differences
 Language use/experience
 Proficiency (LexTALE, DELE)
@@ -56,7 +65,7 @@ Is accuracy conditioned by interaction between eye gaze on mouth and proficiency
 
 # How many participants?
 
-Check out power analysis.
+
 
 # What proficiencies?
 
